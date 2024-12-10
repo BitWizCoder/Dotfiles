@@ -1,0 +1,2 @@
+#External Drives
+UUID=88CE4801CE47E652  /home/noman/External\040Drives/Primary\040Drive/  ntfs-3g  defaults,uid=1000,nofail,gid=1000  0  0
