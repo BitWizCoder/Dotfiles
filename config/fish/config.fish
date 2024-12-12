@@ -5,4 +5,4 @@ end
 
 set -g fish_greeting
 
-oh-my-posh init fish --config ~/.omp/themes/craver.omp.json | source
+oh-my-posh init fish --config ~/.config/omp/themes/craver.omp.json | source

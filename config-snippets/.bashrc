@@ -14,4 +14,4 @@ PS1='[\u@\h \W]\$ '
 
 export PATH=$PATH:~/.local/bin
 
-eval "$(oh-my-posh init bash --config ~/.omp/themes/craver.omp.json)"
+eval "$(oh-my-posh init bash --config ~/.config/omp/themes/craver.omp.json)"
